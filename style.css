@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+}
+.uno{
+    text-align: center;
+    color: white;
+}
+.dos{
+    width: 100%;
+}
+.tres{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.tres-hijo{
+    width: 45%;
+    padding: 80px;
+    margin: 10px;
+}
+.tres-hijo p{
+    padding: 50px 65px;
+    font-size: 20px;
+}
+.tres-hijo img{
+    padding: 50px 65px;
+}
+.imagen-1{
+    width: 500px;
+}
+.cuatro{
+    text-align: center;
+    padding: 80px;
+    background-color: #1E1A13;
+    color: white;
+}
+.cuatro-titulo{
+    font-size: 30px;
+}
+.cuatro-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cuatro-flex i{
+height: 50px;
+width: 50px;
+padding: 50px;
+font-size: 60px;
+}
+.cuatro-flex i:hover{
+text-shadow:0px -1px 7px gold;
+}
+.cuatro-flex p{
+    font-size: 25px;
+}
+.cinco{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+.iguana-5{
+    height: 200px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.seis{
+    text-align: center;
+    background-color: bisque;
+    padding: 15px;
+    margin: 0;
+}
+.seis a{
+    color: black;
+}
+.seis a:hover{
+    color: red;
+}
+.iguana-inicio{
+    width: 100%;
+    height: auto;
+}
